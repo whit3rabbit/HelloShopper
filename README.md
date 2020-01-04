@@ -8,7 +8,7 @@ text file with a list of links to recipes.
 * Requires Python 3
 
 ```angular2
-pip install git+https://github.com/whit3rabbit/HelloShopper
+pip3 install git+https://github.com/whit3rabbit/HelloShopper
 ```
 ## Usage
 
