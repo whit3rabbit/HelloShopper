@@ -1,2 +1,2 @@
-from helloshopper import *
+from .helloshopper import *
 
